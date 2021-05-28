@@ -5,8 +5,9 @@ package studentlist;
 
 /**
  *  File has been edited on the GIT hub 
- This comment was added
- * @author iamya
+ *  This comment was added
+ *  date: may 28
+ * @author Yash Patel
  */
 public class Student {
     
